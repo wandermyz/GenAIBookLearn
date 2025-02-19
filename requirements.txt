@@ -1,4 +1,9 @@
 ipykernel
+ipywidgets
 huggingface_hub
 torch
 transformers
+diffusers
+accelerate
+protobuf
+sentencepiece
